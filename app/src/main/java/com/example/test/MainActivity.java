@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // 这里填你需要打包的 H5 页面链接
-        webView.loadUrl("https://www.baidu.com/");
+        webView.loadUrl("https://zy.hb750700.cn/scan?id=SvhQWkWXH6%252B37VdlrKOiXg%253D%253D");
 
         //显示一些小图片（头像）
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
